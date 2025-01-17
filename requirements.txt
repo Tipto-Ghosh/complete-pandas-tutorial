@@ -4,3 +4,16 @@ pandas
 pyarrow
 pyjanitor
 ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+pyarrow
+fastparquet
+openpyxl
+sqlalchemy
+requests
+lxml
+pandas==1.5.3
+numpy>=1.23.0
+matplotlib<4.0
